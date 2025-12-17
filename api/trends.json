@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T02:02:16.552193+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-12-18T02:08:57.853649+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 02时08分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -65,8 +65,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
@@ -77,8 +77,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 02时08分]"
         },
         {
           "title": "美智库：特朗普重返白宫不到一年，签署行政命令已超其首任总和",
@@ -89,8 +89,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 02时08分]"
         },
         {
           "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
@@ -101,8 +101,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 01时43分]"
+        },
+        {
+          "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
+          "url": "https://flash.jin10.com/detail/20251218012702878800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 02时08分]"
         },
         {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
@@ -137,17 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 01时43分]"
-        },
-        {
-          "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
-          "url": "https://flash.jin10.com/detail/20251218012702878800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时02分]"
         },
         {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
@@ -188,8 +188,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
@@ -202,8 +202,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -216,8 +216,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 02时08分]"
         },
         {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
@@ -245,8 +245,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 02时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 02时08分]"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
@@ -256,8 +256,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 02时08分]"
         },
         {
           "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
@@ -267,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 02时08分]"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
