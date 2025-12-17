@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T01:43:19.020406+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2025-12-18T01:55:46.743311+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -14,25 +14,27 @@
           "ranks": [
             4,
             12,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 01时55分]"
         },
         {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
           "url": "https://flash.jin10.com/detail/20251218010152851800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 01时55分]"
         }
       ]
     }
   ],
-  "report_image_url": "https://haze0x.github.io/TrendRadar2/img/news.jpg"
+  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
