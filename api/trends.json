@@ -1,72 +1,12 @@
 {
-  "generated_at": "2025-12-18T19:39:25.477786+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-12-18T20:28:01.739371+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "通货膨胀 利率（加息/降息） 货币政策 财政政策 美元指数（DXY） 经济衰退 就业数据 国债收益率 量化宽松（QE） 量化紧缩（QT） 全球经济风险 地缘政治冲突 石油价格 黄金价格 避险情绪 市场流动性 监管审查 法律合规 证券法（如美国SEC） 交易所监管 反洗钱（AML） 了解你的客户（KYC） 税收政策 政府禁令（如中国） 立法提案 央行数字货币（CBDC） 稳定币监管 去中心化金融（DeFi）监管 证券化代币 国际监管合作 比特币减半 区块链升级（如以太坊升级） 分叉（硬分叉/软分叉） 网络算力（哈希率） 交易速度 扩容方案（Layer2） 智能合约 跨链技术 零知识证明（ZKP） 去中心化存储 共识机制（PoW/PoS） 开发者活动 代码漏洞 网络安全 钱包安全 成交量 市场深度 杠杆率 爆仓（强平） 资金费率 期货合约 期权合约 交易所储备 做市商活动 机构资金流入/流出 鲸鱼地址动向 交易所黑客事件 稳定币脱锚 市场操纵 恐慌与贪婪指数 代币销毁 代币解锁 项目融资 合作伙伴关系 主网上线 新产品发布 生态增长 治理投票 空投 质押收益 节点运营 去中心化应用（DApp） NFT市场 GameFi 元宇宙 Web3.0 代币经济学 机构投资（如灰度、MicroStrategy） 上市公司持仓 ETF（现货/期货） 风险投资（VC） 对冲基金参与 养老金基金 主权财富基金 企业资产负债表配置 托管服务 保险基金 资管产品 借贷平台 合规性进展 社交媒体趋势（Twitter、Reddit） 意见领袖言论（如马斯克） FOMO（害怕错过） FUD（恐惧、不确定、怀疑） 市场情绪 媒体报道 社区共识 搜索指数（如Google Trends） 网络舆情分析 meme币热潮 能源消耗争议 环保议题（ESG） 挖矿政策（如碳中和） 技术标准化 传统金融机构入场 支付系统整合（如Visa、PayPal） 跨境汇款应用 通货膨胀对冲叙事 去中心化自治组织（DAO） 链上数据分析 宏观经济数据发布 黑天鹅事件 流动性危机 算法稳定币机制 跨链桥安全",
-      "match_count": 15,
+      "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
-          "url": "https://wallstreetcn.com/livenews/3022527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 02时22分]"
-        },
-        {
-          "title": "如何看待媒体报道深圳少年卖烧鸡日入过万，每月打几万给父母，烧鸡真有这么大的盈利空间吗？",
-          "url": "https://www.zhihu.com/question/1984374916108294107",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 19时39分]"
-        },
-        {
-          "title": "日本政府表示，日本经济财政大臣城内实将于周五出席日本央行货币政策会议。",
-          "url": "https://flash.jin10.com/detail/20251218190453229800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 19时34分]"
-        },
-        {
-          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
-          "url": "https://flash.jin10.com/detail/20251218010152851800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 02时12分]"
-        },
-        {
-          "title": "韩国财长：正密切关注海外货币政策分化对本地市场的影响。",
-          "url": "https://flash.jin10.com/detail/20251218083626896800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
         {
           "title": "证券时报：央行可能进一步推动稳定国债收益率曲线、改革贷款市场报价利率（LPR）报价等工作",
           "url": "https://wallstreetcn.com/livenews/3022935",
@@ -77,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "匈牙利央行行长：紧缩的货币政策仍是有必要的。",
-          "url": "https://flash.jin10.com/detail/20251218183321342800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 19时34分]"
         },
         {
           "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
@@ -102,62 +31,26 @@
           "time_info": "[02时22分 ~ 03时16分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0450元，较周二夜盘收盘跌18点。成交量377.88亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3022575",
+          "title": "英国央行降息后，英国国债回吐涨幅，10年期国债收益率上行1个基点至4.48%。英国富时100指数亦回吐涨幅，走势趋于平稳。",
+          "url": "https://wallstreetcn.com/livenews/3023128",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时14分]"
-        },
-        {
-          "title": "玻利维亚押注锂矿和美国以帮助结束经济衰退",
-          "url": "https://flash.jin10.com/detail/20251218022130678800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
-          "title": "泰国央行行长：财政与货币政策步调一致。",
-          "url": "https://flash.jin10.com/detail/20251218114518448800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时17分]"
-        },
-        {
-          "title": "泰国央行行长：货币政策空间有限。",
-          "url": "https://flash.jin10.com/detail/20251218110712579800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "20时28分"
         },
         {
-          "title": "日本官房长官木原稔：货币政策具体细则将交由日本央行决定。 正密切关注包括长期利率在内的市场走势。",
-          "url": "https://wallstreetcn.com/livenews/3022749",
-          "source": "华尔街见闻-快讯",
+          "title": "巴西央行：CPI及通胀预期仍高于3%的目标。",
+          "url": "https://flash.jin10.com/detail/20251218191735385800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "19时39分"
         },
         {
           "title": "iCapital：10年期美国国债收益率可能在2026年下半年升至4.5%",
@@ -169,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "瑞典央行：正密切关注事态发展，若前景发生变化，已准备好调整货币政策。",
-          "url": "https://flash.jin10.com/detail/20251218163259581800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         }
       ]
     }
