@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:26:38.336316+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-12-18T19:34:42.690134+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 19时34分]"
+        },
+        {
+          "title": "日本政府表示，日本经济财政大臣城内实将于周五出席日本央行货币政策会议。",
+          "url": "https://flash.jin10.com/detail/20251218190453229800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时26分]"
+          "time_info": "[19时13分 ~ 19时34分]"
         },
         {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 02时12分]"
-        },
-        {
-          "title": "日本政府表示，日本经济财政大臣城内实将于周五出席日本央行货币政策会议。",
-          "url": "https://flash.jin10.com/detail/20251218190453229800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时26分]"
         },
         {
           "title": "韩国财长：正密切关注海外货币政策分化对本地市场的影响。",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "匈牙利央行行长：紧缩的货币政策仍是有必要的。",
+          "url": "https://flash.jin10.com/detail/20251218183321342800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 19时34分]"
         },
         {
           "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
-          "title": "匈牙利央行行长：紧缩的货币政策仍是有必要的。",
-          "url": "https://flash.jin10.com/detail/20251218183321342800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时26分]"
         },
         {
           "title": "泰国央行行长：财政与货币政策步调一致。",
