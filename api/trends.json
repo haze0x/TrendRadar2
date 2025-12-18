@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:41:16.874986+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2025-12-18T20:48:27.497857+08:00",
+  "total_titles_processed": 1983,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "15时18分"
         },
         {
+          "title": "英国央行降息后，英国国债回吐涨幅，10年期国债收益率上行1个基点至4.48%。英国富时100指数亦回吐涨幅，走势趋于平稳。",
+          "url": "https://wallstreetcn.com/livenews/3023128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 20时48分]"
+        },
+        {
           "title": "美国20年期国债收益率在拍卖后小幅下跌，最新报4.787%。",
           "url": "https://flash.jin10.com/detail/20251218020710667800",
           "source": "金十数据",
@@ -31,16 +43,15 @@
           "time_info": "[02时22分 ~ 03时16分]"
         },
         {
-          "title": "英国央行降息后，英国国债回吐涨幅，10年期国债收益率上行1个基点至4.48%。英国富时100指数亦回吐涨幅，走势趋于平稳。",
-          "url": "https://wallstreetcn.com/livenews/3023128",
-          "source": "华尔街见闻-快讯",
+          "title": "英国央行以微弱多数票决定降息后，英国国债收益率上升",
+          "url": "https://flash.jin10.com/detail/20251218202326813800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时41分]"
+          "time_info": "[20时41分 ~ 20时48分]"
         },
         {
           "title": "巴西央行：CPI及通胀预期仍高于3%的目标。",
@@ -52,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
-        },
-        {
-          "title": "英国央行以微弱多数票决定降息后，英国国债收益率上升",
-          "url": "https://flash.jin10.com/detail/20251218202326813800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "iCapital：10年期美国国债收益率可能在2026年下半年升至4.5%",
