@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:34:42.690134+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2025-12-18T19:39:25.477786+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.zhihu.com/question/1984374916108294107",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 19时39分]"
         },
         {
           "title": "日本政府表示，日本经济财政大臣城内实将于周五出席日本央行货币政策会议。",
