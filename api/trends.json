@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:28:49.507614+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-10T13:16:27.416821+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260110115435338800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时16分]"
         },
         {
           "title": "本周，法国10年期国债收益率累计下跌8.8个基点，周五（1月9日）欧市尾盘报3.523%。 意大利10年期国债收益率累跌11.8个基点，报3.496%。 西班牙10年期国债收益率累跌8.9个基点，报3.250%。 希腊10年期国债收益率累跌14.0个基点，报3.356%。",
