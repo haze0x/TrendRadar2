@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:14:14.877710+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-01-10T19:12:15.805383+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "英国10年期国债收益率本周已跌15个基点，恐将创4月份以来最差单周表现。",
