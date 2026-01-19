@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T02:22:03.676811+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-01-20T03:15:45.950393+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             8,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
           "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
@@ -28,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
           "title": "法国/德国10年期国债收益率利差收窄至65个基点，创7月份以来最窄。",
@@ -49,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时15分]"
         },
         {
           "title": "法国10年期国债收益率重新跌穿3.505%，两年期法债收益率跌向2.250%，30年期法债收益率朝着4.420%回落。",
