@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T21:41:14.571256+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2026-01-19T22:21:43.637916+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,17 @@
           "time_info": "[13时26分 ~ 14时28分]"
         },
         {
+          "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
+          "url": "https://www.zhihu.com/question/1994713115321995889",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
           "title": "日本40年期国债收益率升至3.895%，创历史新高。",
           "url": "https://flash.jin10.com/detail/20260119121302543800",
           "source": "金十数据",
@@ -88,17 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时26分]"
-        },
-        {
-          "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
-          "url": "https://www.zhihu.com/question/1994713115321995889",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
