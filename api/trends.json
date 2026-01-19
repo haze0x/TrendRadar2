@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T04:16:39.107473+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-20T05:14:15.429023+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             8,
             4,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
@@ -29,8 +30,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "法国/德国10年期国债收益率利差收窄至65个基点，创7月份以来最窄。",
