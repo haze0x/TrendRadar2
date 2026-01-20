@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T20:32:25.332284+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-01-20T21:41:38.794455+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
@@ -188,6 +188,18 @@
           "time_info": "[12时39分 ~ 13时23分]"
         },
         {
+          "title": "美国30年期国债收益率跳升10个基点至4.94%；10年期国债收益率攀升7个基点至4.29%，此前日债遭抛售。",
+          "url": "https://wallstreetcn.com/livenews/3040464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时41分]"
+        },
+        {
           "title": "日本20年期国债收益率上行13.5个基点至3.39%。",
           "url": "https://wallstreetcn.com/livenews/3040139",
           "source": "华尔街见闻-快讯",
@@ -198,17 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时25分]"
-        },
-        {
-          "title": "美国30年期国债收益率跳升10个基点至4.94%；10年期国债收益率攀升7个基点至4.29%，此前日债遭抛售。",
-          "url": "https://wallstreetcn.com/livenews/3040464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "40年期日本国债收益率上涨5.5个基点，首次升至4%水平。",
@@ -294,7 +295,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
