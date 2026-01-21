@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T22:23:50.003404+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-01-21T23:23:55.123045+08:00",
+  "total_titles_processed": 2172,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时23分]"
         },
         {
           "title": "20年期日本国债收益率下跌5个基点，至3.295%。",
@@ -40,7 +40,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
