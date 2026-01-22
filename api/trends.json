@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T14:24:03.622302+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-22T15:22:34.860178+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 15时22分]"
         },
         {
           "title": "日本40年期国债收益率下跌7.5个基点，至3.980%。",
@@ -41,7 +42,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -135,7 +136,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
