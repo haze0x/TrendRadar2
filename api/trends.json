@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:22:35.143738+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-01-26T17:28:17.970570+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时50分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 17时28分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -29,11 +30,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时50分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 17时28分]"
         },
         {
           "title": "日本30年期国债收益率下跌3.5个基点，至3.605%。",
