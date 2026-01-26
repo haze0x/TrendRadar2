@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T11:51:10.981860+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-01-26T12:50:39.519790+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 12时50分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 12时50分]"
         },
         {
           "title": "日本5年期国债收益率下行2.5BP至1.665%。",
