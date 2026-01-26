@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:25:48.585639+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-27T03:19:40.049617+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "周一（1月26日）欧市尾盘，英国10年期国债收益率跌1.5个基点，报4.497%，欧股盘初跳空下挫至4.469%刷新日低，随后收复失地，全天处于下跌状态。",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时19分]"
         }
       ]
     }
