@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T01:22:57.300552+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-01-28T02:28:09.407005+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时28分]"
         },
         {
           "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
@@ -36,7 +37,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         }
