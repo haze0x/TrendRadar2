@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-01-28T21:43:24.629507+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2026-01-28T22:23:47.416424+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
       "match_count": 17,
       "titles": [
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            6,
+            21,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时27分 ~ 22时23分]"
+        },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
@@ -19,21 +35,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时21分 ~ 19时18分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            6,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时27分 ~ 21时43分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
