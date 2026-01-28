@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-29T04:21:27.562113+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-29T05:23:34.933218+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "鲍威尔：美国10年期国债收益率与隔夜利率之间关联并不紧密。",
-          "url": "https://wallstreetcn.com/livenews/3045798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
@@ -28,8 +17,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时23分]"
         },
         {
           "title": "周三（1月28日）欧市尾盘，英国10年期国债收益率涨2.1个基点，刷新日高至4.546%，全天持续震荡上行。",
@@ -42,6 +31,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时27分]"
+        },
+        {
+          "title": "鲍威尔：美国10年期国债收益率与隔夜利率之间关联并不紧密。",
+          "url": "https://wallstreetcn.com/livenews/3045798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时23分]"
         },
         {
           "title": "周三（1月28日）欧市尾盘，法国10年期国债收益率跌1.4个基点，报3.423%。",
@@ -84,7 +85,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -100,13 +101,24 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美联储利率决议后：美联储3月降息25个基点的概率为11.9%",
+          "url": "https://flash.jin10.com/detail/20260129042458990800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "美联储主席鲍威尔：较长期通胀预期反映出对通胀回归2%的信心。",
           "url": "https://flash.jin10.com/detail/20260129034941599800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -117,7 +129,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -161,7 +173,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         }
