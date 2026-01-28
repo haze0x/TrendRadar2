@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T17:28:06.619634+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-01-28T18:21:46.458736+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时21分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -39,11 +39,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 18时21分]"
         },
         {
           "title": "日本两年期国债收益率下跌3.5个基点，至1.240%。",
