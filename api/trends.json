@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:32:17.250119+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2026-01-28T21:43:24.629507+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             4,
             1,
             6,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 21时43分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
