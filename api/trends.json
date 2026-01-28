@@ -1,244 +1,33 @@
 {
-  "generated_at": "2026-01-28T23:25:06.845690+08:00",
-  "total_titles_processed": 2182,
+  "generated_at": "2026-01-29T00:27:43.836403+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 20,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            6,
-            21,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时27分 ~ 23时25分]"
-        },
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时21分 ~ 19时18分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            24,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 17时28分]"
-        },
         {
           "title": "美元兑加元维持超过0.2%的跌幅，此前加拿大央行宣布按兵不动。 加拿大10年期国债收益率短线从3.418%拉升至3.427%，刷新日高；两年期加债收益率也从2.585%上方拉升至2.595%，转而刷新日高。 加拿大股市休市。",
           "url": "https://wallstreetcn.com/livenews/3045669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "日本两年期国债收益率下跌3.5个基点，至1.240%。",
-          "url": "https://flash.jin10.com/detail/20260128142144332800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
-          "url": "https://wallstreetcn.com/livenews/3045543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时32分]"
-        },
-        {
-          "title": "日本20年期国债收益率下行2个基点，至3.180%。",
-          "url": "https://wallstreetcn.com/livenews/3045249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时22分]"
-        },
-        {
-          "title": "日本10年期国债收益率下行3.5个基点至2.25%。",
-          "url": "https://wallstreetcn.com/livenews/3045240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时22分]"
-        },
-        {
-          "title": "美国财长贝森特发表评论后，美国国债收益率小幅走高。",
-          "url": "https://flash.jin10.com/detail/20260128231240504800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "日本10年期国债收益率下跌3.5个基点，至2.250%。",
-          "url": "https://flash.jin10.com/detail/20260128114743989800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "30年期日本国债收益率上行2个基点，至3.680%。",
-          "url": "https://wallstreetcn.com/livenews/3045078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "日本40年期国债收益率下跌3.5个基点，至3.9%。",
-          "url": "https://flash.jin10.com/detail/20260128114154915800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3044859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "日本拍卖40年期国债，认购倍数为2.72，过去12个月均值为2.53。 日本国债期货在拍卖结果出炉后走高，40年期国债收益率日内下行3.5个基点至3.900%。",
-          "url": "https://wallstreetcn.com/livenews/3045235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
-          "url": "https://wallstreetcn.com/livenews/3045069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "加拿大央行决议公布后，加拿大两年期国债收益率小幅走低，现持平于2.588%。",
-          "url": "https://flash.jin10.com/detail/20260128230306840800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
-          "url": "https://wallstreetcn.com/livenews/3044883",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "00时27分"
         },
         {
-          "title": "日本20年期国债收益率下跌2.0个基点，至3.180%。",
-          "url": "https://flash.jin10.com/detail/20260128121042649800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "金十整理：机构前瞻美联储利率决议（二）——暂停降息板上钉钉，就业与增长撑住底盘",
-          "url": "https://flash.jin10.com/detail/20260128135137092800",
-          "source": "金十数据",
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本10年期国债收益率下跌5.0个基点，至2.235%。",
-          "url": "https://flash.jin10.com/detail/20260128135103589800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "00时27分"
         }
       ]
     }
