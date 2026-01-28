@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:26:13.924879+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-01-28T15:20:53.724129+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "日本两年期国债收益率下跌3.5个基点，至1.240%。",
@@ -27,7 +27,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 15时20分]"
         },
         {
           "title": "日本20年期国债收益率下行2个基点，至3.180%。",
@@ -163,7 +164,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -174,7 +175,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
