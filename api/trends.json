@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T09:06:14.190930+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-01-28T11:30:10.258197+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 11时30分]"
         },
         {
           "title": "30年期日本国债收益率上行2个基点，至3.680%。",
@@ -26,7 +27,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -48,7 +49,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
