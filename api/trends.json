@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:36:00.015775+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-01-29T16:31:21.676241+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 15时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 16时31分]"
         },
         {
           "title": "印度10年期基准国债收益率触及6.7242%，为（2025年）3月5日以来最高水平。",
