@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T03:27:17.212646+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-01-31T04:21:21.936458+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美联储穆萨莱姆：预计通胀将降至2%左右，但认为通胀可能在较长时间内维持在2%以上。进一步降息可能加剧通胀预期。",
+          "url": "https://flash.jin10.com/detail/20260131023227936800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时21分]"
+        },
+        {
           "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32496768",
           "source": "澎湃新闻",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
-          "title": "美联储穆萨莱姆：预计通胀将降至2%左右，但认为通胀可能在较长时间内维持在2%以上。进一步降息可能加剧通胀预期。",
-          "url": "https://flash.jin10.com/detail/20260131023227936800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
         },
         {
           "title": "法国10年期国债收益率1月份累跌约14个基点，希债收益率1月20日曾显著跳空走高",
