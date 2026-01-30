@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:20:07.517723+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-30T09:15:10.252936+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 09时15分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
