@@ -1,139 +1,22 @@
 {
-  "generated_at": "2026-01-30T23:27:29.153617+08:00",
-  "total_titles_processed": 2180,
+  "generated_at": "2026-01-31T00:31:36.220779+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 16时29分]"
-        },
-        {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 18时26分]"
-        },
-        {
-          "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
-          "url": "https://www.zhihu.com/question/2000353838817882383",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "黄金价格暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时35分]"
-        },
-        {
-          "title": "30年期美国国债收益率上行5个基点，至4.905%。",
-          "url": "https://wallstreetcn.com/livenews/3046956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "策略师警告：沃什的“降息宣言”暗藏陷阱，代价或是全球流动性收缩",
-          "url": "https://flash.jin10.com/detail/20260130151003362800",
+          "title": "欧盟考虑以服务禁令取代俄罗斯石油价格上限。",
+          "url": "https://flash.jin10.com/detail/20260131001222796800",
           "source": "金十数据",
           "ranks": [
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "德国通胀数据公布后，德国10年期国债收益率小幅上扬，现报2.85%，日内上涨2个基点。",
-          "url": "https://flash.jin10.com/detail/20260130170445348800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国30年期国债收益率涨至4.91% 创一周多以来最高",
-          "url": "https://wallstreetcn.com/livenews/3047271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "欧洲央行调查：欧元区消费者将未来五年通胀预期从2.2%上调至2.4%，为该调查开始以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260130170325443800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美联储理事沃勒：通胀因关税而上升，但鉴于通胀预期已稳定，货币政策应忽略这些影响。",
-          "url": "https://flash.jin10.com/detail/20260130220105190800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "30年期美国国债收益率上升5个基点，至4.905%。",
-          "url": "https://flash.jin10.com/detail/20260130111328915800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "00时31分"
         }
       ]
     }
