@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T03:41:01.218168+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-02-04T04:28:31.218090+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260204032540767800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时28分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
