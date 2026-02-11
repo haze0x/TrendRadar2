@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T04:31:46.156749+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-02-12T05:27:49.028220+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时27分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月11日），南非富时/JSE非洲领先40可交易指数收涨0.75%，报11.4万点。 国际货币基金组织（IMF）认为，在面临错综复杂的风险之际，南非取得进展，但为了引导通胀预期回落，可能还得在更长时期内维持更高的政策利率。",
