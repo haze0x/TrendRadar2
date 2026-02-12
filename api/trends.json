@@ -1,223 +1,22 @@
 {
-  "generated_at": "2026-02-12T23:43:46.258434+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-02-13T00:49:30.024869+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 19,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国财长贝森特：抵押贷款利率和10年期国债收益率均已下降。",
-          "url": "https://flash.jin10.com/detail/20260212032132482800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时27分]"
-        },
-        {
-          "title": "韩国央行官员：近期韩国国债收益率涨幅“有些过度”",
-          "url": "https://wallstreetcn.com/livenews/3054170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时59分]"
-        },
-        {
-          "title": "日本10年期国债收益率下跌4.5个基点，至2.190%。",
-          "url": "https://flash.jin10.com/detail/20260212084009976800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "美国国债收益率在初请数据公布后有所下降；10年期美国国债收益率下跌2.1个基点至4.162%。",
-          "url": "https://flash.jin10.com/detail/20260212213107628800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "日本40年期国债收益率跌8.0个基点，至3.645%。",
-          "url": "https://flash.jin10.com/detail/20260212083126904800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "日本30年期国债收益率下行7.5个基点至3.420%。 日本40年期国债收益率下行8个基点至3.645%。",
-          "url": "https://wallstreetcn.com/livenews/3054059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "日本20年期国债收益率下行5个基点至3.055%。",
-          "url": "https://wallstreetcn.com/livenews/3054057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "土耳其5年期国债收益率持续走低，降至32.92%。",
-          "url": "https://wallstreetcn.com/livenews/3054345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "路透社调查：美国10年期国债收益率将在三个月内升至4.20%，六个月内升至4.19%，一年内升至4.29%（1月份调查结果分别为4.11%、4.15%和4.20%）。",
-          "url": "https://flash.jin10.com/detail/20260212212958611800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "日本两年期国债收益率下跌1.0个基点，至1.290%。",
-          "url": "https://flash.jin10.com/detail/20260212082220747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "日本5年期国债收益率下跌2.5个基点，至1.675%。",
-          "url": "https://flash.jin10.com/detail/20260212082213746800",
+          "title": "德国10年期国债收益率跌至12月5日以来最低水平，报2.779%，最新下跌1.6个基点。",
+          "url": "https://flash.jin10.com/detail/20260213002533633800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "英国10年期国债收益率跌至3周低点4.461%。",
-          "url": "https://flash.jin10.com/detail/20260212212823081800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "日本40年期国债收益率下行5.5个基点至3.67%。",
-          "url": "https://wallstreetcn.com/livenews/3054048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（2月11日），南非富时/JSE非洲领先40可交易指数收涨0.75%，报11.4万点。 国际货币基金组织（IMF）认为，在面临错综复杂的风险之际，南非取得进展，但为了引导通胀预期回落，可能还得在更长时期内维持更高的政策利率。",
-          "url": "https://wallstreetcn.com/livenews/3053850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "土耳其央行行长：通胀预期改善趋势仍在持续。",
-          "url": "https://flash.jin10.com/detail/20260212154825126800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "日本40年期国债收益率下跌5.5个基点，至3.670%。",
-          "url": "https://flash.jin10.com/detail/20260212081056936800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "日本30年期国债收益率下行5个基点至3.445%。",
-          "url": "https://wallstreetcn.com/livenews/3054039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "日本30年期国债收益率下跌5.5个基点，至3.440%。",
-          "url": "https://flash.jin10.com/detail/20260212080058499800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "美国10年期国债收益率在国债拍卖后走高，最新报4.168%，上涨2.3个基点。",
-          "url": "https://flash.jin10.com/detail/20260212020343791800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "00时49分"
         }
       ]
     }
