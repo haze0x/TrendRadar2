@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T16:35:12.642683+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-03-02T17:39:58.948924+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时39分]"
         },
         {
           "title": "两年期日本国债收益率下跌2.5个基点，至1.220%。",
