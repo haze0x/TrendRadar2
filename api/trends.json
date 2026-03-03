@@ -1,304 +1,33 @@
 {
-  "generated_at": "2026-03-03T23:40:40.731927+08:00",
-  "total_titles_processed": 2178,
+  "generated_at": "2026-03-04T00:37:50.701349+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 26,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美油轮被炸,石油价格暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351204&amp;topic_name=%E7%BE%8E%E6%B2%B9%E8%BD%AE%E8%A2%AB%E7%82%B8%2C%E7%9F%B3%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 12时08分]"
-        },
-        {
-          "title": "英国国债收益率各期限日内普遍上行5至9个基点。",
-          "url": "https://flash.jin10.com/detail/20260303160924090800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：将实施一项计划以抵消能源成本。",
-          "url": "https://flash.jin10.com/detail/20260303045907781800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "五年期日本国债收益率上升6.0个基点，至1.590%。",
-          "url": "https://flash.jin10.com/detail/20260303115126001800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "澳大利亚三年期国债收益率涨11个基点，澳洲联储主席Bullock谈及CPI和中东局势。",
-          "url": "https://wallstreetcn.com/livenews/3062165",
+          "title": "美国纽约联储主席威廉姆斯：伊朗（面对美国以色列挑起的）战争迄今的影响“相对温和”。 （相比对于美国）伊朗局势通过天然气对欧洲造成的影响可能更大。 石油价格对通胀的影响取决于油价涨势是否会顽固存在。 实现2%这个通胀目标真的很重要。 战争对不确定性的影响可能会很重要。 如果久久不能实现通胀目标，将侵蚀预期。 事实证明，美国对油价波动具有韧性。",
+          "url": "https://wallstreetcn.com/livenews/3062887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时18分]"
-        },
-        {
-          "title": "油价飙升！白宫终于要出手了：将推出分阶段措施缓解能源成本上涨",
-          "url": "https://www.cls.cn/detail/2300640",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 17时34分]"
-        },
-        {
-          "title": "英国2/10年期国债收益率至多涨超14个基点",
-          "url": "https://wallstreetcn.com/livenews/3062079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时35分]"
-        },
-        {
-          "title": "澳洲联储主席Bullock：中东局势及时提醒地缘政治不确定性。 油价上涨可能会拖累全球经济（增速）和通胀（进展）。 澳洲联储对通胀预期的迹象“非常警惕”。 现在判断中东局势对通胀的影响还言之过早。 澳洲联储准备在必要时针对冲击做出政策回应。 一系列指标表明，劳动力市场条件是紧俏的。",
-          "url": "https://wallstreetcn.com/livenews/3062152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时18分]"
-        },
-        {
-          "title": "德国国债延续跌势，两年期国债收益率上行7个基点，至2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3062568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "00时37分"
         },
         {
-          "title": "德国国债跌幅扩大，2年期国债收益率上行7个基点至2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3062563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "意大利国债跌幅扩大，10年期国债收益率上行10个基点至3.46%。",
-          "url": "https://wallstreetcn.com/livenews/3062621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "德国10年期国债收益率在早盘交易中上涨逾4个基点，至2.752%；意大利10年期国债收益率上升5个基点，至3.41%。",
-          "url": "https://flash.jin10.com/detail/20260303152104762800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "波兰化肥巨头暂停三月新单 能源成本飙升触发供应链危机",
-          "url": "https://flash.jin10.com/detail/20260303222338125800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "白宫将推出措施缓解能源成本上涨",
-          "url": "https://www.toutiao.com/trending/7611842349546635307/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "英国国债持续走低，10年期国债收益率上行10个基点。",
-          "url": "https://wallstreetcn.com/livenews/3062619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "避险情绪难抵通胀预期 金价四连涨后深陷抛售泥潭",
-          "url": "https://flash.jin10.com/detail/20260303231034018800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "美国两年期国债收益率涨幅扩大至10个基点，报3.47%。",
-          "url": "https://wallstreetcn.com/livenews/3062033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "韩国10年期国债收益率上行10.4个基点，至3.551%。",
-          "url": "https://wallstreetcn.com/livenews/3062471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "日本5年期国债收益率上行5.5个基点，至1.585%。 日本10年期国债收益率上行5个基点，至2.11%。",
-          "url": "https://wallstreetcn.com/livenews/3062245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "印尼5年期国债收益率上行5个基点，至2025年8月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3062364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "英国2年期国债收益率上行14个基点至3.78%，创12月以来最高。 德国2年期国债收益率上行10个基点至2.19%。",
-          "url": "https://wallstreetcn.com/livenews/3062669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "韩国10年期国债收益率上升10.4个基点，至3.551%。",
-          "url": "https://flash.jin10.com/detail/20260303141449071800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "英国10年期国债收益率持续攀升，上行15个基点至4.53%。",
-          "url": "https://wallstreetcn.com/livenews/3062722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "德国2年期国债收益率日内上涨12个基点至2.20%，创自5月以来最大单日涨幅。德国10年期国债收益率上行8个基点至2.78%。德债2年与10年期收益率曲线处于自10月以来的最平坦水平。",
-          "url": "https://flash.jin10.com/detail/20260303185309376800",
+          "title": "国际货币基金组织副总裁卡茨：各国央行更有可能对持续上涨的能源价格作出回应，尤其是当这些价格波动可能扰乱通胀预期时。",
+          "url": "https://flash.jin10.com/detail/20260304002102751800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "日本10年期国债收益率上行4个基点，至2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3062237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "20年期日本国债收益率上升7.0个基点，至2.950%。",
-          "url": "https://flash.jin10.com/detail/20260303141039174800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "00时37分"
         }
       ]
     }
