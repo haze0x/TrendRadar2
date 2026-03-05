@@ -1,88 +1,33 @@
 {
-  "generated_at": "2026-03-05T23:43:44.295240+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2026-03-06T01:56:19.714613+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 26,
+      "match_count": 3,
       "titles": [
         {
-          "title": "5年期日本国债收益率上升3.5个基点，至1.610%。",
-          "url": "https://flash.jin10.com/detail/20260305132036415800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：伊朗战争持续时间越长，通胀预期发生改变的风险就越大。",
-          "url": "https://flash.jin10.com/detail/20260305170322906800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "10年期日本国债收益率上行3.5个基点，报2.145%。",
-          "url": "https://flash.jin10.com/detail/20260305090623966800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：若因伊朗局势导致通胀预期发生变化，欧洲央行可能会改变其政策立场。",
-          "url": "https://flash.jin10.com/detail/20260305170319094800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "匈牙利央行行长：持续的外汇市场稳定是遏制通胀预期的关键。",
-          "url": "https://flash.jin10.com/detail/20260305182542783800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "日本10年期国债收益率上升5个基点至2.160%。",
-          "url": "https://wallstreetcn.com/livenews/3064221",
+          "title": "周四（3月5日）欧市尾盘，英国10年期国债收益率升至4.542%，日内上涨逾10个基点，创2月9日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3064614",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：需警惕通胀及通胀预期的任何稳定变化。",
-          "url": "https://flash.jin10.com/detail/20260305170313388800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "01时56分"
+        },
+        {
+          "title": "周四（3月5日）欧市尾盘，德国10年期国债收益率上行9个基点，报2.841%。",
+          "url": "https://wallstreetcn.com/livenews/3064613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "3 月 5 日，伊朗军方高官称未封锁霍尔木兹海峡，出现这一变化的原因是什么？石油价格是否将回落？",
@@ -92,212 +37,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 23时43分]"
-        },
-        {
-          "title": "日本5年期国债收益率上行3.5个基点，至1.610%。",
-          "url": "https://wallstreetcn.com/livenews/3064215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时40分]"
-        },
-        {
-          "title": "英特尔一度涨超5.5%，该公司CFO谈及芯片供应短缺等问题。",
-          "url": "https://wallstreetcn.com/livenews/3063789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时37分]"
-        },
-        {
-          "title": "周三（3月4日）欧市尾盘，英国10年期国债收益率跌3.1个基点，报4.439%。 两年期英债收益率跌3.1个基点，报3.703%。 30年期英债收益率跌1.9个基点，50年期英债收益率跌2.2个基点。 2/10年期英债收益率利差涨0.127个基点，报+73.413个基点。",
-          "url": "https://wallstreetcn.com/livenews/3063787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时37分]"
-        },
-        {
-          "title": "英特尔CFO：服务器CPU市场将在2026年大幅增长。 （大范围的）服务器需求强劲。 到2027年，供应都将是一个更大的挑战。 芯片行业全面遭遇供应短缺问题。 预计存储芯片供应短缺这个问题将持续至2027年。 我们的工厂超负荷运转。",
-          "url": "https://wallstreetcn.com/livenews/3063783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时37分]"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：欧洲经济正受中东局势影响。 在伊朗冲突爆发前夕，欧洲经济表现稳健。 伊朗冲突前风险平衡是双向的。 伊朗冲突加剧了不确定性。 到目前为止市场演变有序。 伊朗冲突爆发后必须采取不同的策略。 通胀预期是欧洲央行采取行动的关键因素。",
-          "url": "https://wallstreetcn.com/livenews/3064382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时31分]"
-        },
-        {
-          "title": "周三（3月4日）欧市尾盘，法国10年期国债收益率跌2.0个基点，报3.354%。 意大利10年期国债收益率跌2.9个基点，报3.426%。 西班牙10年期国债收益率跌0.8个基点，报3.195%。 希腊10年期国债收益率跌2.4个基点，报3.419%。",
-          "url": "https://wallstreetcn.com/livenews/3063780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时37分]"
-        },
-        {
-          "title": "德国国债开盘下跌，德国30年期国债收益率上行3个基点至3.425%，为2月19日以来最高；德国2年期国债收益率上升5个基点至2.18%。",
-          "url": "https://wallstreetcn.com/livenews/3064315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "美国10年期国债收益率上升4.1个基点，达到4.123%。",
-          "url": "https://flash.jin10.com/detail/20260305130704432800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "20年期日本国债收益率上升4个基点，至3%。",
-          "url": "https://flash.jin10.com/detail/20260305085217786800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "英国10年期国债收益率早盘上涨7个基点，至4.517%。",
-          "url": "https://flash.jin10.com/detail/20260305160348635800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "德国30年期国债收益率盘初上涨3个基点至3.425%，为2月19日以来最高。",
-          "url": "https://flash.jin10.com/detail/20260305151848018800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "日本20年期国债收益率上行4个基点，至3%。",
-          "url": "https://wallstreetcn.com/livenews/3063962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "日本10年期国债收益率上行3.5个基点，至2.145%。",
-          "url": "https://wallstreetcn.com/livenews/3063959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "战火重燃通胀预期 英国掉期利率飙升恐终结房贷“降息梦”",
-          "url": "https://flash.jin10.com/detail/20260305213637793800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%，成分股Strategy涨9.1%，罗斯百货涨6.5%，AppLovin涨6.5%，西部数据涨6.1%，希捷科技涨5.7%，Datadog涨5.3%，美光涨3.5%表现靠前，Meta涨1.6%，拼多多涨1.4%，Diamondback Energy跌1.9%，德康医疗跌2%，Atlassian跌2.7%。 标普500指数涨超0.4%，道指涨超0.3%，纳指涨约0.9%，半导体指数涨1.3%，银行指数涨0.5%。 美国两年期国债收益率涨幅扩大至2.5个基点，逼近日高3.5370%。",
-          "url": "https://wallstreetcn.com/livenews/3063741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "美国两年期国债收益率短线从3.5103%上扬至3.5226%，日内整体涨幅重新扩大至超过1个基点。 在需求回暖之际，美国2月ISM非制造业活动创2022年以来最大扩张速度。",
-          "url": "https://wallstreetcn.com/livenews/3063738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "德国两年期国债收益率升至3月13日以来最高水平，报2.239%，日内上涨10个基点。",
-          "url": "https://flash.jin10.com/detail/20260305222016362800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "日本5年期国债收益率上行3个基点至1.605%。",
-          "url": "https://wallstreetcn.com/livenews/3063949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "01时56分"
         }
       ]
     }
