@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T09:21:21.245883+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-03-06T12:03:00.457684+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 09时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 12时03分]"
         },
         {
           "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
@@ -62,7 +63,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -73,7 +74,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
