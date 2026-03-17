@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T03:05:10.125191+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-18T04:31:57.852862+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 03时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 04时31分]"
         },
         {
           "title": "英国10/30年期国债收益率至少跌7个基点",
