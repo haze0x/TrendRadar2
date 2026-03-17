@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T20:50:03.298216+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2026-03-17T22:20:31.277417+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 20时50分]"
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 22时20分]"
         },
         {
           "title": "美国国债收益率跌势放缓，10年期国债收益率最新下跌4.2个基点，报4.241%。",
