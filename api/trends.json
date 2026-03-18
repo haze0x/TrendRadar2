@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T20:50:53.410432+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-03-18T22:17:51.391808+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 20时50分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 22时17分]"
         },
         {
           "title": "美联储利率决议即将公布，年内还能降息吗？黄金还会持续下挫吗？金十研究员正在直播，立即观看>><font class=\"important-text\"></font>",
@@ -38,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -96,7 +97,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -107,7 +108,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -184,7 +185,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
