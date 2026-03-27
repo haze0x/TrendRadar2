@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T03:37:36.618627+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-03-28T04:30:41.239048+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "美伊前景未明，纳指100跌幅扩大至1%，半导体股、网安股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 04时30分]"
+        },
+        {
+          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "法国、意大利10年期国债收益率本周至少涨超8个基点",
