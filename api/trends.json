@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T07:24:43.817045+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-03-28T09:20:29.763684+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时20分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
