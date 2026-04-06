@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T04:31:20.892748+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-07T05:31:52.109738+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 05时31分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：即便冲突迅速结束、经济相当快速复苏，经济增长预期仍将下调，通胀预期则将上调。",
