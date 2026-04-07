@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T03:53:09.617162+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-08T04:38:32.161042+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2017599039630247665",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 03时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 04时38分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
