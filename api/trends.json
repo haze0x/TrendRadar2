@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T06:34:11.192013+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-04-10T07:32:30.110268+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             19,
             10,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 07时32分]"
         },
         {
           "title": "德国10年期国债收益率涨幅收窄至将近4个基点",
