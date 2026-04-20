@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T01:53:11.440761+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-04-21T02:54:19.450160+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时54分]"
         },
         {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
