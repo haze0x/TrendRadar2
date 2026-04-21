@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T04:04:58.111514+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-04-22T05:38:31.641216+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "英国两年期国债收益率涨约9个基点",
