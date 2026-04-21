@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:38:31.641216+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-04-22T06:33:05.537987+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时33分]"
         },
         {
           "title": "英国两年期国债收益率涨约9个基点",
