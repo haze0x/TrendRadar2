@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T18:13:11.293290+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-04-21T19:56:15.658539+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 19时56分]"
         },
         {
           "title": "英国两年期国债收益率上升5个基点至4.23%。",
