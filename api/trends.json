@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T05:48:36.886467+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-04-28T06:42:17.224363+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时48分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时42分]"
         },
         {
           "title": "英国国债收益率普遍上涨",
