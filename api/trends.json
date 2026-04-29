@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T18:48:58.045747+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-04-29T20:12:49.906574+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 20时12分]"
         },
         {
           "title": "澳大利亚3年期国债收益率抹去升幅，此前公布第一季度通胀数据。",
@@ -37,7 +37,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
