@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T05:01:20.872150+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-05T06:03:51.013379+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：此前IMF关于中东战争将导致全球经济增长小幅放缓、物价小幅上涨的预测已不再成立。通胀开始回升，但长期通胀预期仍然稳定，因此我们尚未进入最危险的情况。",
+          "url": "https://flash.jin10.com/detail/20260505041605602800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
           "title": "美联储威廉姆斯：关税和能源是主要的通胀驱动因素，基础通胀总体保持稳定。通胀预期仍受到控制是一个积极信号。",
@@ -52,17 +64,6 @@
           "time_info": "01时23分"
         },
         {
-          "title": "IMF总裁格奥尔基耶娃：此前IMF关于中东战争将导致全球经济增长小幅放缓、物价小幅上涨的预测已不再成立。通胀开始回升，但长期通胀预期仍然稳定，因此我们尚未进入最危险的情况。",
-          "url": "https://flash.jin10.com/detail/20260505041605602800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "受中东冲突影响 巴西连续八周上调通胀预期",
           "url": "https://flash.jin10.com/detail/20260505022700005800",
           "source": "金十数据",
@@ -80,7 +81,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
