@@ -1,124 +1,22 @@
 {
-  "generated_at": "2026-06-25T21:12:18.228916+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-06-26T00:17:26.113997+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "印度10年期基准国债收益率降至自3月20日以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260625113231407800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
-          "url": "https://wallstreetcn.com/livenews/3124195",
+          "title": "匈牙利国债收益率逼近英国金边债券，亲欧转向助推市场大涨",
+          "url": "https://wallstreetcn.com/livenews/3124773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "匈牙利国债收益率向英国看齐 东欧“弃儿”逆袭成投资新宠",
-          "url": "https://flash.jin10.com/detail/20260625153040818800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时53分]"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 21时12分]"
-        },
-        {
-          "title": "美光：预计存储芯片供应紧张将持续至2027财年之后，预计将在2028年逐步改善。 还“看不到”供应将在何时追赶上需求。",
-          "url": "https://wallstreetcn.com/livenews/3124251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "美元指数短线走低逾10点，现报101.62。美股期货短线小幅拉升，纳斯达克100指数期货涨2.4%。美国10年期国债收益率短线走低，现报4.413%。现货黄金短线拉升逾20美元，现报3998.13美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3124689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "英国30年期国债收益率跌约8个基点",
-          "url": "https://wallstreetcn.com/livenews/3124151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国七年期国债收益率跌10个基点，报4.27%。",
-          "url": "https://wallstreetcn.com/livenews/3124176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "00时17分"
         }
       ]
     }
