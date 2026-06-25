@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T15:35:54.642678+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-06-25T18:35:28.782932+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -61,8 +61,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 18时35分]"
         },
         {
           "title": "美光：预计存储芯片供应紧张将持续至2027财年之后，预计将在2028年逐步改善。 还“看不到”供应将在何时追赶上需求。",
