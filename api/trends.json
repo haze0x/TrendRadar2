@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T01:29:30.744120+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T03:44:51.725848+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://wallstreetcn.com/livenews/3126273",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时44分]"
         },
         {
           "title": "周一（6月29日）欧市尾盘，英国10年期国债收益率跌1.4个基点，报4.718%。 两年期英债收益率涨0.2个基点，报4.127%。 30年期英债收益率跌2.0个基点，50年期英债收益率跌2.6个基点。 2/10年期英债收益率利差跌1.607个基点，报+58.980个基点。",
           "url": "https://wallstreetcn.com/livenews/3126263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时44分]"
         },
         {
           "title": "德银：6月底买盘料将使美国国债收益率曲线趋平",
