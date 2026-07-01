@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T05:20:17.570778+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-02T07:04:58.762317+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时04分]"
         },
         {
           "title": "英国两年期国债收益率跌超2个基点，投资者对央行加息预期降温",
