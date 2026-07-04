@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T07:01:40.382022+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-04T08:07:32.190663+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时07分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
