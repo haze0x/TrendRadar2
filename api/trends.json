@@ -1,111 +1,44 @@
 {
-  "generated_at": "2026-07-08T23:11:11.800611+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-07-09T01:21:58.713213+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储利率决议 量化紧缩 通胀预期 美元指数(DXY) 宏观经济衰退 全球流动性 监管政策 加密税法 交易牌照 SEC诉讼 合规交易所 稳定币监管 央行数字货币 挖矿禁令 反洗钱政策 机构 adoption 比特币ETF 灰度持仓 期货未平仓合约 资金费率 恐惧贪婪指数 社交媒体情绪 Meme币热潮 鲸鱼地址异动 交易所净流入 链上数据 活跃地址数 哈希率 网络难度 以太坊Gas费 Layer2扩容 跨链桥安全 共识机制升级 智能合约漏洞 分片技术 零知识证明 DeFi总锁仓值 NFT交易量 GameFi用户 DAO治理提案 代币燃烧机制 质押收益率 开发者活动 主网上线 硬分叉升级 交易所黑客事件 稳定币脱锚 算法稳定币风险 托管服务商暴雷 项目 Rug Pull 交易所储备证明 做市商动态 风险投资流入 行业并购 传统公司入局 支付机构整合 特斯拉持仓 美股科技股波动 国债收益率 黄金价格 石油价格 能源成本 矿机出货量 芯片供应 地缘政治冲突 国际制裁 主权基金持仓 通货膨胀对冲 银行危机 信贷紧缩 去杠杆化 市场操纵调查 税务稽查 隐私币监管 跨境支付合规 托管解决方案 保险基金覆盖 衍生品清算 期权隐含波动率 永续合约资金费率 交易所竞争 新公链竞争 模块化区块链 真实收益率 流动性质押 再质押协议 去中心化稳定币 跨链互操作性 预言机数据 MEV保护 监管沙盒 牌照申请 司法判例 政策不确定性指数 挖矿难度调整 算力迁移 可再生能源挖矿 ESG争议 碳足迹追踪 机构托管服务",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
-          "title": "英国两年期国债收益率上涨15个基点，为3月份以来最大单日涨幅。",
-          "url": "https://flash.jin10.com/detail/20260708230537299800",
+          "title": "美国10年期国债收益率在10年期国债拍卖后涨幅收窄；目前上涨5.22个基点，报4.581%。",
+          "url": "https://flash.jin10.com/detail/20260709010527802800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美国消费者通胀预期再度升温！纽约联储调查：一年期升至2023年9月以来最高，医疗和房租成最大担忧",
-          "url": "https://wallstreetcn.com/articles/3776403",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 16时10分]"
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
-          "title": "10年期日本国债收益率上升2.5个基点至2.865%，创下1996年9月以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3130271",
+          "title": "周三（7月8日）欧市尾盘，英国10年期国债收益率涨12.6个基点，报4.974%。 两年期英债收益率涨15.3个基点，报4.331%。 30年期英债收益率涨10.3个基点，50年期英债收益率涨9.2个基点。 2/10年期英债收益率利差跌2.887个基点，报+64.259个基点。",
+          "url": "https://wallstreetcn.com/livenews/3130818",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "01时21分"
         },
         {
-          "title": "澳洲联储助理主席Hunter：大型经济冲击可能会带来不确定性、降低信心并抑制消费。 澳洲联储委员会将根据需要采取行动，以确保通胀重回目标水平。 到目前为止，几乎没有迹象表明经济活动出现了明显的放缓。 石油冲击可能会改变通胀预期。 供给冲击并不会降低维持低且稳定通胀率的重要性。 货币政策有可能限制间接影响和第二轮效应。 如果通胀预期上升，可能需要经历一段低通胀和高失业率率的时期。 某些经济代价是无法避免的，政策制定者所能做的只有取得平衡。",
-          "url": "https://wallstreetcn.com/livenews/3130269",
+          "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
+          "url": "https://wallstreetcn.com/livenews/3130817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美伊紧张局势重燃，亚太国债收益率随油价走升",
-          "url": "https://flash.jin10.com/detail/20260708092821126800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "日本20年期国债收益率上涨4.0个基点，至3.850%，为1996年7月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260708092554254800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美联储：美国6月一年期通胀预期逼近3.7%，创2023年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3130069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "据Tradeweb：英国10年期国债收益率升至4周高点，报4.906%。",
-          "url": "https://flash.jin10.com/detail/20260708151729981800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "英国国债下跌，10年期国债收益率上涨10个基点至4.95%。",
-          "url": "https://wallstreetcn.com/livenews/3130555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "01时21分"
         }
       ]
     }
