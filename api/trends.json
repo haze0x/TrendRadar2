@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T07:51:04.381236+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-07-11T09:50:09.135803+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 09时50分]"
         },
         {
           "title": "SK海力士CEO Kwak Noh-Jung：存储芯片供应短缺可能会持续至2030年之后。（彭博电视）",
