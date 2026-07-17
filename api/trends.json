@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T06:41:33.065975+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-07-18T07:44:36.520418+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3135922",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 07时44分]"
         },
         {
           "title": "英国两年期国债收益率本周涨超12个基点",
