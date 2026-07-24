@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:57:14.666706+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-07-25T07:58:52.547938+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时57分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时58分]"
         },
         {
           "title": "德国两年期国债收益率周五跌超5个基点，追随油价回撤的表现",
