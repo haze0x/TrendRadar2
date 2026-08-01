@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:57:30.444746+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-08-01T10:06:46.857408+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时57分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 10时06分]"
         },
         {
           "title": "德国10年期国债收益率周五涨超5个基点，7月份累涨将近35个基点",
