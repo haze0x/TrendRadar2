@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T08:58:05.833097+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-08-08T10:53:24.681589+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             13,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 08时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 10时53分]"
         },
         {
           "title": "英国10年期国债收益率本周跌超13个基点",
