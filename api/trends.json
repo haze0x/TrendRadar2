@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:22:10.362878+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-08-08T20:29:21.202006+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[06时27分 ~ 10时53分]"
         },
         {
+          "title": "黄金价格走势或反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时29分]"
+        },
+        {
           "title": "英国10年期国债收益率本周跌超13个基点",
           "url": "https://wallstreetcn.com/livenews/3146829",
           "source": "华尔街见闻-快讯",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时41分]"
-        },
-        {
-          "title": "黄金价格走势或反转",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "美联储：美国7月短期通胀预期降温，消费者对就业变得更加乐观",
