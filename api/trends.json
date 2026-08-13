@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:18:11.338147+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-08-13T23:54:44.573323+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/articles/3779381",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时54分]"
         },
         {
           "title": "美国2年期国债收益率延续跌势，触及7月中旬以来最低水平；最新报4.136%，下跌6.2个基点。",
@@ -47,7 +48,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
