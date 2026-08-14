@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T15:11:15.175167+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-08-14T17:01:53.432479+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 15时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 17时01分]"
         },
         {
           "title": "美国30年期国债收益率在30年期债券拍卖后小幅回升；最新下跌2.9个基点，报5.217%。",
@@ -93,7 +93,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
